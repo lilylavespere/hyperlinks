@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/ldj7vok.css">
+<link rel="stylesheet" href="https://use.typekit.net/ldj7vok.css">
+<link rel="stylesheet" href="https://use.typekit.net/ldj7vok.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+	
+	main{
+		height: 1600px;
+	}
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+	
+  <nav>
+	<ul>
+		<li><a href="../pages/myabout.html">About</a></li>
+      <li><a href="../pages/bolg.html">Blog</a></li>
+      <li><a href="../pages/gallery.html">Gallery</a></li>
+      <li><a href="../pages/contact.html">Contact</a></li>
+		
+	</ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside>
+	<h3>I'm a sophmore in high school who loves soccer, netflix, and shopping. </h3>
+	<h3>Get to know me some more by looking throughout my personalized webpage!;</h3>
+	<h3>By Lily Lavespere</h3>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
